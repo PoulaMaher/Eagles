@@ -1,4 +1,4 @@
-#Mini Store: Exceptional E-Commerce Platform
+<h1>Mini Store: Exceptional E-Commerce Platform</h1>
 Welcome to Mini Store, an innovative e-commerce platform built using cutting-edge .NET MVC technology. Our project aims to revolutionize online shopping experiences with a robust stack of technologies and a strong focus on user-centric design.
 
 ##Features
